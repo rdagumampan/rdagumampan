@@ -7,11 +7,11 @@ Rodel here, I am a Software Architect from the Philippines and currently based i
 
 ##### BIO
 
-- 🔭 I’m currently working as Solutions Architect in Advanced Analytics Lab at Ørsted A/S Denmark
-- 🌱 I’m C# MVP Alumni and now learning python and architecture patterns for data science solutions
-- 🌍 I'm mostly active within the **C# and Kubernetes Community**
-- 🤔 I’m looking for help with [yuniql](https://yuniql.io)
-- 📫 Reach me: [twitter.com/rdagumampan](https://twitter.com/rdagumampan)
+- 🔭 Currently working as Solutions Architect in Advanced Analytics Lab at Ørsted A/S Denmark
+- 🌱 Was C# MVP Alumni and now learning python and architecture patterns for data science solutions
+- 🌍 Find me talking in the **C# and Kubernetes Community**
+- 🤔 Looking for help with [yuniql](https://yuniql.io)
+- 📫 Reach me on [twitter.com/rdagumampan](https://twitter.com/rdagumampan)
 - ⚡ Fun fact: Grown-up with japanese animes and robot series
 
 #### 📕 ARTICLES

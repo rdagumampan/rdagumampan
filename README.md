@@ -1,4 +1,4 @@
-Rodel here, I am a Software Architect from the Philippines and currently based in Copenhagen, Denmark. With our teams in Malaysia, Poland and Denmark, we deliver strategic products to support our green energy ambitions at Ørsted using stack of commercial and open source technologies and partnerships.
+Rodel here, I am a Software Architect from the Philippines and currently based in Copenhagen, Denmark. Together with our teams in Malaysia, Poland and Denmark, we deliver strategic products to support our green energy ambitions at Ørsted using stack of commercial and open source technologies and partnerships.
 
 ##### NOW
 
@@ -14,7 +14,7 @@ Rodel here, I am a Software Architect from the Philippines and currently based i
 - 📫 Reach me: [twitter.com/rdagumampan](https://twitter.com/rdagumampan)
 - ⚡ Fun fact: Grown-up with japanese animes and robot series
 
-#### 📕 BLOGS:
+#### 📕 ARTICLES
 <!-- BLOG-POST-LIST:START -->
 - [Run environment-aware database migrations](https://dev.to/rdagumampan/run-environment-aware-database-migrations-with-yuniql-522l)
 - [Seed your SqlServer, PostgreSql and MySql databases with CSV files](https://dev.to/rdagumampan/seeding-sqlserver-postgresql-and-mysql-databases-with-csv-files-using-yuniql-migrations-3ki7)

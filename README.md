@@ -1,4 +1,4 @@
-#### I'm a Software Architect working with Ørsted A/S Denmark. 
+Rodel here, I am a Software Architect from the Philippines and currently based in Copenhagen, Denmark. With our teams in Malaysia, Poland and Denmark, we deliver strategic products to support our green energy ambitions at Ørsted using stack of commercial and open source technologies and partnerships.
 
 ##### NOW
 

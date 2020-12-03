@@ -3,7 +3,7 @@ Rodel here, I am a Software Architect from the Philippines and currently based i
 ##### NOW
 
 - 🌐 Immersing into new domain of data science and mlops
-- 💅 Performing the balancing act of wfh and coding in my daughters room
+- 💅 Performing the balancing act of wfh and coding with my little daughter around
 
 ##### BIO
 

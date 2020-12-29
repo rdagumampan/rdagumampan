@@ -2,6 +2,7 @@ Rodel here, I am a Software Architect from the Philippines and currently based i
 
 ##### NOW
 
+- 🤔 Kicked-off refactoring of yuniql inprep for supporting Snowflake and Az Synapse 
 - 🌐 Immersing into new domain of data science and mlops
 - 💅 Performing the balancing act of wfh and coding with my little daughter around
 

@@ -1,4 +1,4 @@
-Rodel here, I am a Software Architect from the Philippines and currently based in Copenhagen, Denmark. Together with our teams in Malaysia, Poland and Denmark, we deliver strategic products to support our green energy ambitions at Ørsted using stack of open source and commercial technologies and partnerships.
+Rodel here, I am a Software Architect from the Philippines and currently based in Copenhagen, Denmark. Together with our teams in Malaysia, Poland and Denmark, we deliver strategic products to support our green energy ambitions at Ørsted using stack of open source and commercial technologies and partnerships. Visit my full CV here https://rdagumampan.github.io/cv
 
 ##### NOW
 

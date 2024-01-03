@@ -1,4 +1,4 @@
-Rodel here, I am a Software Architect from the Philippines and currently based in Copenhagen, Denmark. Together with our teams in Malaysia, Poland and Denmark, we deliver strategic products to support our green energy ambitions at Ørsted using stack of open source and commercial technologies and partnerships. Visit my full CV here https://rdagumampan.github.io/cv
+Rodel here, I am a Solution Architect from the Philippines and currently based in Copenhagen, Denmark. Together with international teams in Malaysia, Poland and Denmark, we deliver strategic products to support our green energy ambitions at Ørsted using stack of open source and commercial technologies and partnerships. Visit my full CV here https://rdagumampan.github.io/cv
 
 ##### NOW
 
@@ -8,7 +8,7 @@ Rodel here, I am a Software Architect from the Philippines and currently based i
 
 ##### BIO
 
-- 🔭 Currently working as Principal Architect in Advanced Analytics Lab at Ørsted A/S Denmark
+- 🔭 Currently working as Solution Architect in Advanced Analytics Lab at Ørsted A/S Denmark
 - 🌱 Was C# MVP Alumni and now learning python and architecture patterns for data science solutions
 - 🌍 Find me talking in the **C#, .NET and Kubernetes Community**
 - 🤔 Looking for help with [yuniql](https://yuniql.io)

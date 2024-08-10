@@ -1,4 +1,4 @@
-Rodel here, I am a Solution Architect from the Philippines and currently based in Copenhagen, Denmark. Together with international teams in Malaysia, Poland and Denmark, we deliver strategic products to support our green energy ambitions at Ørsted using stack of open source and commercial technologies and partnerships. Visit my full CV here https://rdagumampan.github.io/cv
+Rodel here, I am a Lead Solution Architect from the Philippines and currently based in Copenhagen, Denmark. Together with international teams in Malaysia, Poland and Denmark, we deliver strategic products to support our green energy ambitions at Ørsted using stack of open source and commercial technologies and partnerships. Visit my full CV here https://rdagumampan.github.io/cv
 
 ##### NOW
 
